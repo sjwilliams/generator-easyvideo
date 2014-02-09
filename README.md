@@ -1,12 +1,12 @@
 # generator-easyvideo 
 
-FFMPEG-based encoding work flow to generate videos in multiple sizes and codecs using [Yeoman](http://yeoman.io/) and [Grunt](http://gruntjs.com/).
+FFmpeg-based encoding work flow to generate videos in multiple sizes and codecs using [Yeoman](http://yeoman.io/) and [Grunt](http://gruntjs.com/).
 
 ## Software Dependencies
 
-### FFMPEG
+### FFmpeg
 
-This encoder requries FFMPEG. You may need to compile in support for your desired codec. For libx264 and libvpx, the libraries that generate .mp4 and .webm files, you can install them like so with Homebrew:
+This encoder requries FFmpeg. You may need to compile in support for your desired codec. For libx264 and libvpx, the libraries that generate .mp4 and .webm files, you can install them like so with Homebrew:
 
 ```
 $ brew install ffmpeg --with-libvorbis --with-nonfree --with-gpl --with-libvpx --with-pthreads --with-libx264 --with-libfaac --with-theora --with-libogg
