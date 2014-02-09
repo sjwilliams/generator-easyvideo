@@ -1,6 +1,6 @@
 # generator-easyvideo 
 
-Encoding work flow to generate videos in multiple sizes and codecs using [FFmpeg](http://www.ffmpeg.org/), Yeoman and Grunt. [Yeoman](http://yeoman.io/) and [Grunt](http://gruntjs.com/).
+Encoding work flow to generate videos in multiple sizes and codecs using [FFmpeg](http://www.ffmpeg.org/), [Yeoman](http://yeoman.io/) and [Grunt](http://gruntjs.com/).
 
 ## Software Dependencies
 
