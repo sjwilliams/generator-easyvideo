@@ -44,6 +44,10 @@ Any videos in the `assets/videos/` will be generated in the sizes listed in the 
     
 ## Release History
 
+*0.0.4*
+
+* Updated keywords
+
 *0.0.3*
 
 * Updated description
