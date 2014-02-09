@@ -1,7 +1,7 @@
 {
   "name": "generator-easyvideo",
   "version": "0.0.1",
-  "description": "Yeoman generator",
+  "description": "Encoding work flow to generate videos in multiple sizes and codecs using FFmpeg, Yeoman and Grunt.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "sjwilliams/generator-easyvideo",
