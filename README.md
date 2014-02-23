@@ -31,7 +31,7 @@ $ npm install -g generator-easyvideo
 Instantiate the generator from within your project folder
 
 ```
-$ yo video
+$ yo easyvideo
 ```
 
 Place source files in the newly created `assets/videos/` and run:
