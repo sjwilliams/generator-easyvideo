@@ -44,6 +44,10 @@ Any videos in the `assets/videos/` will be generated in the sizes listed in the 
     
 ## Release History
 
+*0.1.0*
+
+* Use better version of grunt-responsive-videos
+
 *0.0.4*
 
 * Updated keywords
